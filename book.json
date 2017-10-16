@@ -1,0 +1,4 @@
+{
+	"root": "./contents",
+	"plugins": ["mermaid-gb3"]
+}
