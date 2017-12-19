@@ -4,3 +4,5 @@ dist
 .DS_Store
 _book
 node_modules
+Demo
+node.pdf
